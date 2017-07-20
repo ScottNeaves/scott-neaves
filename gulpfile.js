@@ -8,7 +8,6 @@ var gulp = require('gulp'),
 
 gulp.task('build', [], function() {
   return run('simple-website').exec()
-    .pipe(gulp.dest('output'))
 });
 
 gulp.task('deploy', function() {
