@@ -1,0 +1,19 @@
+{
+  "name": "scott-neaves",
+  "version": "1.0.0",
+  "description": "Scott Neaves' personal blog",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "bitballoon": "^0.2.2",
+    "browser-sync": "^2.18.12",
+    "dotenv": "^4.0.0",
+    "gulp": "^3.9.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Scott Neaves",
+  "license": "ISC",
+  "private": true
+}
