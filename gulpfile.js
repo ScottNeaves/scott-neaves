@@ -14,7 +14,7 @@ gulp.task('deploy', function() {
   bb.deploy({
     access_token: process.env.BB_ACCESS_TOKEN,
     site_id: "stenographer-leap-54855.bitballoon.com/",
-    dir: "."
+    dir: "site"
   }, function(err, deploy) {
     if (err) { throw(err) }
   });

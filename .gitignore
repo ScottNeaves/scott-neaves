@@ -1,7 +1,4 @@
 .DS_Store
 node_modules
 .env
-pages/
-posts/
-all-posts.html
-index.html
+/site
