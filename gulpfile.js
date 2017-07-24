@@ -22,9 +22,9 @@ gulp.task('deploy', function() {
 
 gulp.task('serve', function() {
     browserSync.init({
-        files: "./**",
+        files: "site/**",
         server: {
-            baseDir: "."
+            baseDir: "site"
         }
     });
    gulp.watch('**/*', ['build']);
