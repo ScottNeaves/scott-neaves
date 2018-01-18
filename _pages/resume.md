@@ -7,8 +7,8 @@ Scott Neaves
 
 Contact:
 
-- 406 Shafer St #1104, Richmond, VA 23220
-- scott (dot) neaves (dot) eghs <at> gmail (dot) com
+- 2402 3rd Avenue, Richmond, VA 23222
+- scott (dot) t (dot) neaves <at> gmail (dot) com
 
 Online:
 
@@ -18,6 +18,12 @@ Online:
 
 Work Experience
 ---------------
+
+*  **APIvista** (Richmond, Virginia)
+
+    *DevOps and API Integrations Consultant*, Aug 2017 - present
+
+    - Implements automation and DevOps best practices for clients, provides guidance regarding developer efficiency and data security. Current project: build out automation tools, ensure information security for a client's new Apache Hadoop cluster.
 
 *  **Ordoro** (Austin, Texas)
 
@@ -60,10 +66,6 @@ Skills
 *   HTML5, CSS, SASS, Bootstrap, Responsive Design, Mobile Web Development, AJAX, JavaScript, jQuery, AngularJS, Git, C#, .NET, REST, Python, Flask, pytest, SQLAlchemy, SQL, Postgres
 
 
-Projects
---------
-
-* Online cURL command convenience tool, conceived of while writing many cURL commands as medium of communication between myself and API service owner: [curl.build](http://www.curl.build)
 
 Accomplishments
 ---------------
